@@ -1,0 +1,6 @@
+framework module Pods_DishesCollection {
+  umbrella header "Pods-DishesCollection-umbrella.h"
+
+  export *
+  module * { export * }
+}
